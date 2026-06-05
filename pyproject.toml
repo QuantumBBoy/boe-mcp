@@ -37,7 +37,7 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/estoreasoporte/BoeMCP"
+Homepage = "https://github.com/QuantumBBoy/boe-mcp"
 "Data source" = "https://www.boe.es/datosabiertos/"
 
 [project.scripts]

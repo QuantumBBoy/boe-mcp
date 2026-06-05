@@ -1,5 +1,7 @@
 # BOE MCP Server
 
+[![CI](https://github.com/QuantumBBoy/boe-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/QuantumBBoy/boe-mcp/actions/workflows/ci.yml)
+
 An [MCP](https://modelcontextprotocol.io) server for Spain's **Boletín Oficial del Estado (BOE)**.
 It lets an LLM query the official state gazette and consolidated legislation in natural language —
 no PDFs, no wrestling with the BOE web search.
