@@ -1,0 +1,23 @@
+{
+  "status": {"code": "200", "text": "ok"},
+  "data": {"sumario": {
+    "metadatos": {"publicacion": "BOE", "fecha_publicacion": "20230102"},
+    "diario": [{"numero": "1", "seccion": [
+      {"codigo": "1", "nombre": "I. Disposiciones generales", "departamento": [
+        {"codigo": "7723", "nombre": "JEFATURA DEL ESTADO", "epigrafe": [
+          {"nombre": "Medidas", "item": [
+            {"identificador": "BOE-A-2023-1", "titulo": "Ley de prueba",
+             "url_pdf": {"texto": "https://www.boe.es/x/BOE-A-2023-1.pdf"},
+             "url_html": "https://www.boe.es/h/BOE-A-2023-1",
+             "url_xml": "https://www.boe.es/xml/BOE-A-2023-1"}
+          ]}
+        ]},
+        {"codigo": "9999", "nombre": "OTRO", "item": [
+          {"identificador": "BOE-A-2023-2", "titulo": "Orden directa",
+           "url_pdf": {"texto": "https://www.boe.es/x/BOE-A-2023-2.pdf"},
+           "url_html": "https://www.boe.es/h/BOE-A-2023-2"}
+        ]}
+      ]}
+    ]}]
+  }}
+}

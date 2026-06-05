@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status><code>200</code><text>ok</text></status>
+  <data>
+    <bloque id="a1" tipo="precepto" titulo="Artículo 1">
+      <version id_norma="BOE-A-2013-5940" fecha_publicacion="20130605" fecha_vigencia="20130606">
+        <p class="articulo">Artículo 1. Objeto.</p>
+        <p class="parrafo">1. Esta ley regula la prueba.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

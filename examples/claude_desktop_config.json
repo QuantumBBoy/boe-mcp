@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "boe": {
+      "command": "uvx",
+      "args": ["boe-mcp"]
+    }
+  }
+}
